@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1690862141 source:c:\users\mohamed hatem\desktop\new folder\atm\strings.c
+	<stdio.h>
+	<stdlib.h>
+	"Std.h"
+	"terminal.h"
+	"card.h"
+
+1690856725 source:c:\users\mohamed hatem\desktop\new folder\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"card.h"
+	"terminal.h"
+	"App.h"
+
+1690895653 c:\users\mohamed hatem\desktop\new folder\atm\card.h
+	"Std.h"
+
+1690841218 c:\users\mohamed hatem\desktop\new folder\atm\std.h
+
+1690862141 source:c:\users\mohamed hatem\desktop\new folder\atm\card.c
+	"card.h"
+	"Std.h"
+	"strings.h"
+
+1690856724 c:\users\mohamed hatem\desktop\new folder\atm\app.h
+
+1690933561 source:c:\users\mohamed hatem\desktop\new folder\atm\app.c
+	"app.h"
+	"card.h"
+	"terminal.h"
+	"server.h"
+	<stdio.h>
+	<string.h>
+
+1690935565 c:\users\mohamed hatem\desktop\new folder\atm\terminal.h
+	"card.h"
+
+1690936409 c:\users\mohamed hatem\desktop\new folder\atm\server.h
+	"terminal.h"
+	"Std.h"
+
+1690936409 source:c:\users\mohamed hatem\desktop\new folder\atm\server.c
+	"server.h"
+	<stdio.h>
+	"strings.h"
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1690856725 c:\users\mohamed hatem\desktop\new folder\atm\strings.h
+	"Std.h"
+
+1690935596 source:c:\users\mohamed hatem\desktop\new folder\atm\terminal.c
+	"terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"strings.h"
+	"Std.h"
+	<time.h>
+
